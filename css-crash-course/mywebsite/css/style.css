@@ -36,7 +36,13 @@ body {
   color: #fff;
   text-decoration: none;
   font-size: 18px;
-  padding-right: 15px;
+  padding: 10px;
+  transition: all 0.3s;
+}
+
+#navbar ul li a:hover {
+  background-color: #fff;
+  color: #000000;
 }
 
 #showcase {
